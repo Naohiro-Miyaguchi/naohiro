@@ -1,2 +1,0 @@
-# naohiro
-the first cording
